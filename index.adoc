@@ -26,6 +26,9 @@ SiFive Igniting the Open Hardware Ecosystem with RISC-V: https://fosdem.org/2018
 include::./core/coreTable.adoc[]
 
 
+== 论文
+
+include::./paper/paper.adoc[]
 
 
 
