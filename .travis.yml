@@ -1,4 +1,4 @@
-language: python
+language: ruby
 
 before_install:
  - sudo apt-get install -y asciidoctor
