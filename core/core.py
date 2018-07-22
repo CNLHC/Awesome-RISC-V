@@ -47,6 +47,6 @@ def generateAdocTable(projects:list) -> str:
 
 
 jsObj= json.load(open("./raw.json"))
-with open('./coreTable.adoc','w') as fp:
+with open('./core.adoc','w') as fp:
     fp.write(generateAdocTable(jsObj))
 

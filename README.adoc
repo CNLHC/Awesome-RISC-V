@@ -1,7 +1,5 @@
 = RISC-V 资料收集
 
-RISC-V 基金会官方网站: https://riscv.org/
-
 == 文档
 
 官方指令集架说明: https://content.riscv.org/wp-content/uploads/2017/05/riscv-spec-v2.2.pdf[下载地址]
@@ -14,12 +12,28 @@ Design of the RISC-V Instruction Set Architecture: http://digitalassets.lib.berk
 
 手把手教你设计CPU---RISC-V处理器篇 https://item.jd.com/12360850.html[购买地址]
 
-== 课程及讲座材料
+== 讲座材料
 
 普林斯顿大学 RISC-V Tutorial Introduction: http://palms.ee.princeton.edu/system/files/HPCA2015_1_introduction.pdf[下载地址]
 
 SiFive Igniting the Open Hardware Ecosystem with RISC-V: https://fosdem.org/2018/schedule/event/riscv/attachments/slides/2322/export/events/attachments/riscv/slides/2322/SiFive_RISC_V_FOSDEM_2018.pdf[下载地址]
 
+
+== Chisel
+
+Chisel 官方网站 https://chisel.eecs.berkeley.edu/[地址]
+
+Chisel Github 仓库 https://github.com/freechipsproject/chisel3[地址]
+
+Chisel Github Wiki https://github.com/freechipsproject/chisel3/wiki[地址]
+
+加州伯克利 Chisel 入门教程 https://github.com/ucb-bar/chisel-tutorial[地址]
+
+=== 入门项目
+
+Chisel Examples https://github.com/schoeberl/chisel-examples[地址]: 使用Chisel点亮FPGA开发板上的LED
+
+RiscV-Sodor https://github.com/ucb-bar/riscv-sodor[地址]: 一个教学项目，使用Chisel 循序渐进的搭建一个简单的RISC-V处理器
 
 == 开源项目
 
@@ -117,10 +131,18 @@ SiFive Igniting the Open Hardware Ecosystem with RISC-V: https://fosdem.org/2018
 +++
 
 
+
+
 == 论文
+
 
 2017 CARRV 会议论文集 https://carrv.github.io/2017/[地址]
 
 2018 CARRV 会议论文集 https://carrv.github.io/[地址]
+
+
+
+
+
 
 

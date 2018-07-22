@@ -39,7 +39,7 @@ RiscV-Sodor https://github.com/ucb-bar/riscv-sodor[地址]: 一个教学项目�
 
 === 核心
 
-include::./core/coreTable.adoc[]
+include::./core/core.adoc[]
 
 
 
