@@ -8,6 +8,7 @@ before_install:
 
 install:
   make
+script: true
 
 deploy:
   provider: pages
