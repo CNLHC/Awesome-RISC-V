@@ -1,7 +1,8 @@
 language: python
+
 before_install:
-  sudo apt-get update -qq
-  sudo apt-get install -qq asciidoctor
+ -sudo apt-get update 
+ -sudo apt-get install -y asciidoctor
 
 install:
   make
