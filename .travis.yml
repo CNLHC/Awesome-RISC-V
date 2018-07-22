@@ -1,0 +1,13 @@
+before_install:
+  sudo apt-get update -qq
+  sudo apt-get install -qq asciidoctor
+
+install:
+  make
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: HhuYZTFJHubh91YLwgc6Mg # Set in travis-ci.org dashboard
+  on:
+    branch: master
