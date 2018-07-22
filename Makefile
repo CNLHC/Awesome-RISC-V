@@ -2,10 +2,9 @@ DEPENDICIES = core/core.adoc \
 			  paper/paper.adoc
 
 index.html: README.adoc
-	asciidoctor README.adoc -o index.html
+	asciidoc -o index.html README.adoc 
 
 README.adoc: $(DEPENDICIES)
-	echo $(DEPENDICIES)
 	python3 ./.adocMerge.py
 
 core/core.adoc:core/raw.json
