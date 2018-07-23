@@ -1,0 +1,90 @@
+.Risc-V 开源核心
+[cols=5,options="header"]
+|===
+|项目名称
+|开源协议
+|项目地址
+|HDL
+|star
+    
+|orca
+|BSDv3
+|https://github.com/vectorblox/orca
+|VHDL
+|+++
+<a class="github-button" href="https://github.com/vectorblox/orca" data-icon="octicon-star" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
++++
+
+
+|rocket
+|BSD
+|https://github.com/freechipsproject/rocket-chip
+|Scala
+|+++
+<a class="github-button" href="https://github.com/freechipsproject/rocket-chip" data-icon="octicon-star" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
++++
+
+
+|pulpino
+|solderpad hardware license 0.51
+|https://github.com/pulp-platform/pulpino
+|C,SystemVerilog
+|+++
+<a class="github-button" href="https://github.com/pulp-platform/pulpino" data-icon="octicon-star" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
++++
+
+
+|OPenV/mriscv
+|MIT
+|https://github.com/onchipuis/mriscv
+|Verilog
+|+++
+<a class="github-button" href="https://github.com/onchipuis/mriscv" data-icon="octicon-star" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
++++
+
+
+|VexRiscv
+|MIT
+|https://github.com/SpinalHDL/VexRiscv
+|Assembly,Scala
+|+++
+<a class="github-button" href="https://github.com/SpinalHDL/VexRiscv" data-icon="octicon-star" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
++++
+
+
+|Roa Logic RV12
+|Non-Commercial License
+|https://github.com/roalogic/RV12
+|SystemVerilog
+|+++
+<a class="github-button" href="https://github.com/roalogic/RV12" data-icon="octicon-star" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
++++
+
+
+|SCR1
+|Solderpad Hardware License 0.51
+|https://github.com/syntacore/scr1
+|SystemVerilog
+|+++
+<a class="github-button" href="https://github.com/syntacore/scr1" data-icon="octicon-star" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
++++
+
+
+|Hummingbird E200
+|Apache License 2.0
+|https://github.com/SI-RISCV/e200_opensource
+|C,Verilog
+|+++
+<a class="github-button" href="https://github.com/SI-RISCV/e200_opensource" data-icon="octicon-star" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
++++
+
+
+|Shakti
+|BSD
+|https://bitbucket.org/casl/shakti_public
+|UNKNOWN
+|UNKNOWN
+|===
++++
+<script async defer src="https://buttons.github.io/buttons.js"></script>
++++

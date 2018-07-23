@@ -1,0 +1,23 @@
+language: python
+
+python:
+ - "3.6"
+
+before_install:
+ - sudo apt-get install -y asciidoc
+
+install:
+  make
+script: true
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep-history: true
+  on:
+    branch: master
+  
+addons:
+  apt:
+    update: true

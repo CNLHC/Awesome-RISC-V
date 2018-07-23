@@ -1,0 +1,76 @@
+[
+    {
+        "name": "orca",
+        "github": true,
+        "url": "https://github.com/vectorblox/orca",
+        "license": "BSDv3",
+        "maintainer":"VectorBlox",
+        "HDL":"VHDL"
+    },
+    {
+        "name": "rocket",
+        "github": true,
+        "url": "https://github.com/freechipsproject/rocket-chip",
+        "license": "BSD",
+        "maintainer": "SiFive, UCB BAR",
+        "HDL":"Scala"
+    },
+    {
+        "name": "pulpino",
+        "github": true,
+        "url": "https://github.com/pulp-platform/pulpino",
+        "license": "solderpad hardware license 0.51",
+        "maintainer": "eth zurich and and università di bologna",
+        "HDL":"C,SystemVerilog"
+
+    },
+    {
+        "name": "OPenV/mriscv",
+        "github": true,
+        "url": "https://github.com/onchipuis/mriscv",
+        "license": "MIT",
+        "maintainer": "OnChipUIS",
+        "HDL":"Verilog"
+    },
+    {
+        "name": "VexRiscv",
+        "github": true,
+        "url": "https://github.com/SpinalHDL/VexRiscv",
+        "license": "MIT",
+        "maintainer": "SpinalHDL",
+        "HDL":"Assembly,Scala"
+    },
+    {
+        "name": "Roa Logic RV12",
+        "github": true,
+        "url": "https://github.com/roalogic/RV12",
+        "license": "Non-Commercial License",
+        "maintainer": "Roa Logic",
+        "HDL":"SystemVerilog"
+    },
+    {
+        "name": "SCR1",
+        "github": true,
+        "url": "https://github.com/syntacore/scr1",
+        "license": "Solderpad Hardware License 0.51",
+        "maintainer": "SyntacoreRoa Logic",
+        "HDL":"SystemVerilog"
+    },
+    {
+        "name": "Hummingbird E200",
+        "github": true,
+        "url": "https://github.com/SI-RISCV/e200_opensource",
+        "license": "Apache License 2.0",
+        "maintainer": "Bob Hu",
+        "HDL":"C,Verilog"
+
+    },
+    {
+        "name": "Shakti",
+        "github":false,
+        "url": "https://bitbucket.org/casl/shakti_public",
+        "license": "BSD",
+        "maintainer": "IIT Madras",
+        "HDL":"UNKNOWN"
+    }
+]

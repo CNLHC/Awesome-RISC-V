@@ -1,0 +1,148 @@
+= RISC-V 资料收集
+
+== 文档
+
+官方指令集架说明: https://content.riscv.org/wp-content/uploads/2017/05/riscv-spec-v2.2.pdf[下载地址]
+
+== 图书
+
+Computer Organization and Design RISC-V edition: http://staff.ustc.edu.cn/~llxx/cod/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf[下载地址]
+
+Design of the RISC-V Instruction Set Architecture: http://digitalassets.lib.berkeley.edu/techreports/ucb/text/EECS-2016-1.pdf[下载地址] 
+
+手把手教你设计CPU---RISC-V处理器篇 https://item.jd.com/12360850.html[购买地址]
+
+== 讲座材料
+
+普林斯顿大学 RISC-V Tutorial Introduction: http://palms.ee.princeton.edu/system/files/HPCA2015_1_introduction.pdf[下载地址]
+
+SiFive Igniting the Open Hardware Ecosystem with RISC-V: https://fosdem.org/2018/schedule/event/riscv/attachments/slides/2322/export/events/attachments/riscv/slides/2322/SiFive_RISC_V_FOSDEM_2018.pdf[下载地址]
+
+
+== Chisel
+
+Chisel 官方网站 https://chisel.eecs.berkeley.edu/[地址]
+
+Chisel Github 仓库 https://github.com/freechipsproject/chisel3[地址]
+
+Chisel Github Wiki https://github.com/freechipsproject/chisel3/wiki[地址]
+
+加州伯克利 Chisel 入门教程 https://github.com/ucb-bar/chisel-tutorial[地址]
+
+=== 入门项目
+
+Chisel Examples https://github.com/schoeberl/chisel-examples[地址]: 使用Chisel点亮FPGA开发板上的LED
+
+RiscV-Sodor https://github.com/ucb-bar/riscv-sodor[地址]: 一个教学项目，使用Chisel 循序渐进的搭建一个简单的RISC-V处理器
+
+== 开源项目
+
+=== 核心
+
+.Risc-V 开源核心
+[cols=5,options="header"]
+|===
+|项目名称
+|开源协议
+|项目地址
+|HDL
+|star
+    
+|orca
+|BSDv3
+|https://github.com/vectorblox/orca
+|VHDL
+|+++
+<a class="github-button" href="https://github.com/vectorblox/orca" data-icon="octicon-star" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
++++
+
+
+|rocket
+|BSD
+|https://github.com/freechipsproject/rocket-chip
+|Scala
+|+++
+<a class="github-button" href="https://github.com/freechipsproject/rocket-chip" data-icon="octicon-star" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
++++
+
+
+|pulpino
+|solderpad hardware license 0.51
+|https://github.com/pulp-platform/pulpino
+|C,SystemVerilog
+|+++
+<a class="github-button" href="https://github.com/pulp-platform/pulpino" data-icon="octicon-star" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
++++
+
+
+|OPenV/mriscv
+|MIT
+|https://github.com/onchipuis/mriscv
+|Verilog
+|+++
+<a class="github-button" href="https://github.com/onchipuis/mriscv" data-icon="octicon-star" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
++++
+
+
+|VexRiscv
+|MIT
+|https://github.com/SpinalHDL/VexRiscv
+|Assembly,Scala
+|+++
+<a class="github-button" href="https://github.com/SpinalHDL/VexRiscv" data-icon="octicon-star" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
++++
+
+
+|Roa Logic RV12
+|Non-Commercial License
+|https://github.com/roalogic/RV12
+|SystemVerilog
+|+++
+<a class="github-button" href="https://github.com/roalogic/RV12" data-icon="octicon-star" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
++++
+
+
+|SCR1
+|Solderpad Hardware License 0.51
+|https://github.com/syntacore/scr1
+|SystemVerilog
+|+++
+<a class="github-button" href="https://github.com/syntacore/scr1" data-icon="octicon-star" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
++++
+
+
+|Hummingbird E200
+|Apache License 2.0
+|https://github.com/SI-RISCV/e200_opensource
+|C,Verilog
+|+++
+<a class="github-button" href="https://github.com/SI-RISCV/e200_opensource" data-icon="octicon-star" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
++++
+
+
+|Shakti
+|BSD
+|https://bitbucket.org/casl/shakti_public
+|UNKNOWN
+|UNKNOWN
+|===
++++
+<script async defer src="https://buttons.github.io/buttons.js"></script>
++++
+
+
+
+
+== 论文
+
+
+2017 CARRV 会议论文集 https://carrv.github.io/2017/[地址]
+
+2018 CARRV 会议论文集 https://carrv.github.io/[地址]
+
+
+
+
+
+
+
