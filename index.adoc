@@ -48,6 +48,11 @@ include::./core/core.adoc[]
 include::./paper/paper.adoc[]
 
 
+== 开发工具
+
+GNU MCU Eclipse https://gnu-mcu-eclipse.github.io/[地址] 为RISC-V架构程序开发提供IDE
+
+
 
 
 
